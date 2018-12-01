@@ -26,8 +26,6 @@ def dayone_part2():
             dict[freq]=1
         index+=1
 
-    result=sum(numbers) #sum of every number in the array
-
 
 if __name__=="__main__":
     dayone_part1()
