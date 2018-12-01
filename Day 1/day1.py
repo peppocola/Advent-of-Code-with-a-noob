@@ -16,12 +16,12 @@ def dayone_part2():
     freq=0 #the first frequency is 0
     dict={0:1} #dict is a map/dictionary, i assign the value 1 to the key 0
 
-    index=0%
+    index=0
     while (true):
-        freq=freq+numbers[index%len(numbers)]
+        freq=freq+numbers[index%len(numbers)] #circular vector
         if freq in dict:
             print(freq)
-            break
+            break #nothing else to do, i've found what i need :)
         else
             dict[freq]=1
         index+=1
