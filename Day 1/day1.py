@@ -5,24 +5,24 @@ def filescan(fname):
 #reads the lines of a file, removes whitespaces, splits the lines;
 
 def dayone_part1():
-    str#!/usr/bin/env python=filescan("/home/peppocola/Scrivania") #string with all the file values, there is a number per line
-    numbers=[int(e) for e in str] #array with every number from the file
+    ch=filescan("/home/peppocola/Scrivania/file") #string with all the file values, there is a number per line
+    numbers=[(int(e)) for e in ch] #array with every number from the file
     result=sum(numbers) #sum of every number in the array
     print(result)
 
 def dayone_part2():
-    str=filescan("/home/peppocola/Scrivania") #string with all the file values, there is a number per line
-    numbers=[int(e) for e in str] #array with every number from the file
+    ch=filescan("/home/peppocola/Scrivania/file") #string with all the file values, there is a number per line
+    numbers=[(int(e)) for e in ch] #array with every number from the file
     freq=0 #the first frequency is 0
     dict={0:1} #dict is a map/dictionary, i assign the value 1 to the key 0
 
     index=0
-    while (true):
-        freq=freq+numbers[index%len(numbers)] #circular vector
+    while (1):
+        freq=freq+numbers[index%len(numbers)]
         if freq in dict:
             print(freq)
-            break #nothing else to do, i've found what i need :)
-        else
+            break
+        else:
             dict[freq]=1
         index+=1
 
