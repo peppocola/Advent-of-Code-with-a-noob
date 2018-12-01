@@ -29,6 +29,6 @@ def dayone_part2():
     result=sum(numbers) #sum of every number in the array
 
 
-if ___name___=="___main___":
+if __name__=="__main__":
     dayone_part1()
     dayone_part2()
