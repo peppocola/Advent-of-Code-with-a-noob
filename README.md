@@ -9,4 +9,6 @@ Languages i'll probabily use are:
 
 -Phython (maybe)
 
-Stay tuned ;)
+Day 1:
+after a little bit of depression, here is my py code :) it's working, and it's my first python program working ;)
+
