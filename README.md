@@ -9,6 +9,7 @@ Languages i'll probabily use are:
 
 -Phython (maybe)
 
+1/12/2018
 20:35
 Day 1: (with python)
 after a little bit of depression, here is my py code :) it's my first python code working ;)
@@ -16,3 +17,9 @@ it wasn't so difficult, but i found problems only in the use of files. really ea
 
 21:37
 added day1.h, with the functions day1_part1() and day2_part2(), in c++
+
+2/12/2018
+13:02
+Day 2:(with python)
+After practice i had yesterday with python, today was easier :)
+i made 4 functions: the mains for the two exercises, similiar (i, j) and removeDifference(i, j)
