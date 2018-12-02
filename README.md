@@ -13,7 +13,7 @@ Languages i'll probabily use are:
 20:35
 Day 1: (with python)
 after a little bit of depression, here is my py code :) it's my first python code working ;)
-it wasn't so difficult, but i found problems only in the use of files. really easy to solve.
+it wasn't so difficult, but i found some problems with using files. really easy to solve.
 
 21:37
 added day1.h, with the functions day1_part1() and day2_part2(), in c++
