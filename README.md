@@ -9,22 +9,18 @@ Languages i'll probabily use are:
 
 -Phython (maybe)
 
-1/12/2018
-20:35
-Day 1: (with python)
+Day 1: (with python) [20:35]
 after a little bit of depression, here is my py code :) it's my first python code working ;)
 it wasn't so difficult, but i found some problems with using files. really easy to solve.
 
-21:37
+[21:37]
 added day1.h, with the functions day1_part1() and day2_part2(), in c++
 
-2/12/2018
-13:02
-Day 2:(with python)
+
+Day 2:(with python) [13:02]
 After practice i had yesterday with python, today was easier :)
 i made 4 functions: the mains for the two exercises, similiar (i, j) and removeDifference(i, j)
 
-3/12/2018
-19:16
-Day 3: (with python)
+
+Day 3: (with python) [19:26]
 that was a little difficult, because python doesn't have some function similiar to fscanf or ifstream (c/c++), so i had to learn a bit of RegEx and i used product from iteratortools. 
