@@ -23,3 +23,8 @@ added day1.h, with the functions day1_part1() and day2_part2(), in c++
 Day 2:(with python)
 After practice i had yesterday with python, today was easier :)
 i made 4 functions: the mains for the two exercises, similiar (i, j) and removeDifference(i, j)
+
+3/12/2018
+19:16
+Day 3: (with python)
+that was a little difficult, because python doesn't have some function similiar to fscanf or ifstream (c/c++), so i had to learn a bit of RegEx and i used product from iteratortools. 
